@@ -56,3 +56,5 @@ The architecture of this application includes:
 
 ## Author
 **Juan Esteban Ortiz**
+## Email
+**juaneortiz1@gmail.com**
