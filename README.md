@@ -51,7 +51,10 @@ The architecture of this application includes:
      ```
 3. **Default client**:
     - By using a browser, navigate to http://localhost:8000/chain/playground/, and you can find a default client with an interface where you can put some text to test the translator
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/2610ea57-7d14-499e-9e93-fd1eb3317ff4)
+
 
 ## Author
 **Juan Esteban Ortiz**
+## Email
+**juaneortiz1@gmail.com**
